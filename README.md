@@ -1,2 +1,1 @@
-# First-3D-Game
- 
+# Very first (and very simple) 3D game done in Unity
